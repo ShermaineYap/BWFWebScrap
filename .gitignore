@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated scraper output
+bwf_data_*/
+bwf_test_*/
+errors.jsonl
