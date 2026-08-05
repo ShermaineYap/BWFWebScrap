@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BWF Match Data Scraper
 
 This repository contains the Python script and notebook used to collect BWF match results for my final year project.
