@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BWF Match Data Scraper
 
 This repository contains the Python script and notebook used to collect BWF match results for my final year project.
@@ -99,3 +100,6 @@ python bwf_scraper_2021_2026.py \
 ```
 
 The endpoint used by the BWF website is not formally documented and may change. Requests should be kept at a reasonable rate, and the source website's terms should be reviewed before redistributing the data.
+=======
+# BWFWebScrap
+>>>>>>> 5f32b657dcae95b31a59e9f06f332b3d3dcb9115
